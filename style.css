@@ -41,6 +41,10 @@ h1 {
   font-size: 2.6rem;
 }
 
+p {
+  text-align: center;
+}
+
 .links div {
   background: #ff9a00;
   justify-content: center;
